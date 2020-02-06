@@ -6,12 +6,12 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: title!
-description: Happy blogging... ❤
-github_username: vganesh46
+title: Blog
+description: Ganesh's point of view
+github_username: 
 
 # Email and twitter are optional:
-email: vganeshshankar46@gmail.com
+email: 
 twitter_username: vganeshshankar
 
 # OPTIONAL: override baseurl and url if using a custom domain
