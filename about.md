@@ -1,4 +1,15 @@
 # Ganesh Shankar Voona
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+<p align="center"> 
+<img src="https://raw.githubusercontent.com/vganesh46/vganesh46.github.io/master/images/potrait.jpg" width="200">
+</p>
+
+I make things to inspire myself.
+I currently work as Product Manager at Avaamo, a startup focused on Conversational AI.
+
+
+
+
+
+
 
