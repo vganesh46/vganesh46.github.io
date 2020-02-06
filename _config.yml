@@ -7,11 +7,11 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Blog
-description: Ganesh's point of view
+description:
 github_username: 
 
 # Email and twitter are optional:
-email: 
+email: vganeshshankar46@gmail.com
 twitter_username: vganeshshankar
 
 # OPTIONAL: override baseurl and url if using a custom domain
