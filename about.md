@@ -1,7 +1,7 @@
 # Ganesh Shankar Voona
 
 <p align="center"> 
-<img src="https://raw.githubusercontent.com/vganesh46/vganesh46.github.io/master/images/Potrait1.png" width="200">
+<img src="https://raw.githubusercontent.com/vganesh46/vganesh46.github.io/master/images/potrait.png" width="200">
 </p>
 
 I make things to inspire myself.
